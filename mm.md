@@ -19,4 +19,4 @@ Total 2 (delta 1), reused 0 (delta 0), pack-reused 0
 remote: Resolving deltas: 100% (1/1), completed with 1 local object.
 To https://github.com/Able-L/513.git
    902df4f..e43f06d  master -> master
-PS E:\513> get pull
+PS E:\513> get pullada a 
